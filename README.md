@@ -1,7 +1,7 @@
 README.md
 
 Hi, just wanted to start by saying thanks for the opportunity to do this coding challenge.
-To be honest it has been a bit since I've used python, but I wanted to use this opporunity
+To be honest it has been a bit since I've used python, but I wanted to use this opportunity
 to brush back up and learn some more skills that would be useful for the future, hopefully
 for both parties. 
 
